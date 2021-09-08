@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-It is markdown file in the respostiyr 
+It is markdown file in the resposttpry
